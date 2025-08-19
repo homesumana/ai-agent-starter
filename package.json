@@ -1,0 +1,21 @@
+{
+  "name": "ai-agent-mmm",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "bin": {
+    "agent": "src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "commander": "^14.0.0",
+    "dotenv": "^17.2.1",
+    "glob": "^11.0.3"
+  }
+}
